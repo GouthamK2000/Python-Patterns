@@ -4,3 +4,5 @@ for i in range(n):
     if i>1:
         print(" "*(2*(i-1))+"#",end=" ")
     print()
+
+#V in inverted shape..
